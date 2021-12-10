@@ -1,4 +1,4 @@
-# Combating-Collusion-Rings-is-Hard-but-Possible
+# Combating Collusion Rings is Hard but Possible
 
 This repository contains the code for the experiments published in "Niclas Boehmer, Robert Bredereck, and André Nichterlein. Combating Collusion Rings is Hard but Possible. AAAI 2022. Accepted for Publication".
 
